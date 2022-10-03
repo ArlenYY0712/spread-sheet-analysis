@@ -7,6 +7,7 @@
 - The original dataset was in CSV format.
 
 - Top 20 rows of the original dataset: 
+
 |Ranking|Name|FullName|Age|Height|Weight|Nationality|Overall|Potential|Growth|TotalStats|BaseStats|Positions|BestPosition|Club|ValueEUR|WageEUR|ReleaseClause|ClubPosition|ContractUntil|ClubNumber|ClubJoined|OnLoad|NationalTeam|Maximum Wage|Minimum Wage|Average Wage|Maximum Rating|Minimum Rating|Average Rating|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|L. Messi|Lionel Messi|35|169|67|Argentina|91|91|0|2190|452|RW|CAM|Paris Saint-Germain|54000000|195000|99900000|RW|2023|30|2021|FALSE|Argentina|450000|0|43853.75|91|74|77.844|
